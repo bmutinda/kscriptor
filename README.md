@@ -1,4 +1,4 @@
 kscriptor
 =========
 
-kscriptor - lightweight javascript library
+A lightweight javascript library for web developers
